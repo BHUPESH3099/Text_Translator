@@ -1,3 +1,5 @@
+#pip install googletrans                #if this module is not working use alpha version
+#pip install googletrans==3.1.0a0       #alpha version
 from googletrans import Translator
 
 
